@@ -1,2 +1,0 @@
-# Testingngtd.github.io
-jdl
